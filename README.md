@@ -35,7 +35,7 @@ I work at the intersection of engineering, artificial intelligence, and innovati
 ## ✍️ Writing & Publications
 - Google Scholar: https://scholar.google.com/citations?user=fihwbjwAAAAJ  
 - Medium: https://medium.com/@nimasina  
-- Selected Essays & Notes: https://docs.google.com/document/d/e/2PACX-1vSb2g5PUAguQeLNTJHwN4b3ykyHY-_KyO8vbVk2zrhs  
+- Selected Essays & Notes: https://docs.google.com/document/d/1IVM91wRsf4llFNoANpX8WwaR-_y__NaVqBgfkMa_h44/edit?tab=t.0#heading=h.i2k2ixx6c8g8
 
 ---
 

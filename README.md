@@ -40,7 +40,7 @@ I work at the intersection of engineering, artificial intelligence, and innovati
 ---
 
 ## 🌐 Online Hub
-- Personal Google Site: https://sites.google.com/d/1p2xkHpO9l7ZB-rJZK9A49R0rNfUTeRwp/p/1lZwZHL61AQKHn_VIuHlrkDQMl0BJ9E8_/
+- Personal Google Site: https://sites.google.com/d/1p2xkHpO9l7ZB-rJZK9A49R0rNfUTeRwp/p/1lZwZHL61AQKHn_VIuHlrkDQMl0BJ9E8_/edit
 
 ---
 

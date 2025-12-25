@@ -1,16 +1,48 @@
-## Hi there 👋
+# Nima Sina
 
-<!--
-**nimasina2024/nimasina2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Researcher • Inventor • Systems Thinker
 
-Here are some ideas to get you started:
+I work at the intersection of engineering, artificial intelligence, and innovation, with a focus on creating practical, future-oriented solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Background
+- Ph.D. in Mechanical Engineering (in progress), Iowa State University  
+- 40+ peer-reviewed publications  
+- 2,900+ citations (H-index: 23)  
+- Contributor to NASA-related research in aircraft path planning  
+- Over a decade of university-level teaching and research experience  
+
+---
+
+## 🚀 Research & Innovation Interests
+- Artificial Intelligence & Machine Learning  
+- Robotics & Autonomous Systems  
+- Optimization & Numerical Methods  
+- Solid Mechanics & Advanced Modeling  
+- Data Science & Image Processing  
+
+---
+
+## 🧠 Current Focus
+- Patent-pending vehicle braking system with strong commercialization potential  
+- Advanced optimization algorithms (PSO variants, hybrid AI methods)  
+- Intelligent control and stability of humanoid and aerial robots  
+- NURBS-based modeling and curvature-aware optimization frameworks  
+
+---
+
+## ✍️ Writing & Publications
+- Google Scholar: https://scholar.google.com/citations?user=fihwbjwAAAAJ  
+- Medium: https://medium.com/@nimasina  
+- Selected Essays & Notes: https://docs.google.com/document/d/e/2PACX-1vSb2g5PUAguQeLNTJHwN4b3ykyHY-_KyO8vbVk2zrhs  
+
+---
+
+## 🌐 Online Hub
+- Personal Google Site: https://sites.google.com/d/1p2xkHpO9I7ZB-rJZK9A49R0rNfUTeRwp  
+
+---
+
+## 📫 Contact
+Email available upon request.
